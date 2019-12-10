@@ -1,0 +1,6 @@
+C:\Users\tug47424\Downloads\Assignment2Arndt\Assignment2Arndt\Utilities\bin\Release\Utilities.dll
+C:\Users\tug47424\Downloads\Assignment2Arndt\Assignment2Arndt\Utilities\bin\Release\Utilities.pdb
+C:\Users\tug47424\Downloads\Assignment2Arndt\Assignment2Arndt\Utilities\obj\Release\Utilities.csprojAssemblyReference.cache
+C:\Users\tug47424\Downloads\Assignment2Arndt\Assignment2Arndt\Utilities\obj\Release\Utilities.csproj.CoreCompileInputs.cache
+C:\Users\tug47424\Downloads\Assignment2Arndt\Assignment2Arndt\Utilities\obj\Release\Utilities.dll
+C:\Users\tug47424\Downloads\Assignment2Arndt\Assignment2Arndt\Utilities\obj\Release\Utilities.pdb
